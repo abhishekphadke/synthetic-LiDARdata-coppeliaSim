@@ -1,0 +1,3 @@
+This is a sample run where car equipped with sensor travels in an urban environment. 
+Some frames show pedestrian moving in front of vehicle.
+Combined long range scans (visualized by loading the "combined.pcd" or the "velodyne_combined.pcd" files show data for trees and buildings.
